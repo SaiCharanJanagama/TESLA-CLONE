@@ -19,10 +19,6 @@
 
 # install dependencies
 npm install
-# or
-yarn
 
 # run locally
 npm start
-# or
-yarn start
